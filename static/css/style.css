@@ -1,0 +1,24 @@
+#box1
+{
+padding:0px;
+box-sizing: none;
+font-family:verdana;
+border-radius:5px;
+border:10px solid #EE872A;
+}
+
+#box2
+{
+box-sizing: none;
+padding:0px;
+font-family:verdana;
+border-radius:25px;
+border:10px solid #00FF00;
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+}
